@@ -74,6 +74,6 @@ The approach can be extended further using advanced models and feature engineeri
 
 🤝 Author
 
-Aditya
+Aditya Singh
 
 Python & Machine Learning Enthusiast
