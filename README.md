@@ -15,7 +15,7 @@ This project builds a classification model to predict whether a customer will ch
 # 📊 Dataset
 The dataset contains customer information such as:
 * CudtomerID
-*Age
+* Age
 * Gender
 * Tenure(Total months in which take services)
 * Usage Frequency
@@ -71,6 +71,9 @@ The final model successfully predicts customer churn with reasonable accuracy an
 # 📌 Conclusion
 This project demonstrates how machine learning can be applied to real-world business problems such as customer churn prediction.
 The approach can be extended further using advanced models and feature engineering techniques.
+
 🤝 Author
+
 Aditya
+
 Python & Machine Learning Enthusiast
