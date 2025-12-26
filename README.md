@@ -48,7 +48,7 @@ The model performance was evaluated using:
 * Accuracy Score
 * Confusion Matrix
 * Precision & Recall
-* Best Model Accuracy: XX%
+* Best Model Accuracy: 99.9%
 # 🛠️ Project Workflow
 1) Data loading and exploration
 
